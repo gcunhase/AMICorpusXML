@@ -84,6 +84,7 @@ class AMICorpusHandler:
                 all_transcripts_file.write(file_content + '\n')
 
             all_transcripts_file.close()
+        print("Number of meetings: {}".format(len(group_speaker_files.keys())))
 
     def extract_transcript_speaker(self):
         """ Extracts transcript from each speaker (A, B, C, D, and sometimes E)

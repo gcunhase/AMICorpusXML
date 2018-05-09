@@ -14,7 +14,7 @@ if __name__ == '__main__':
                         help='AMI Corpus download directory')
     parser.add_argument('--results_transcripts_speaker_dir', type=str,
                         default=utils.project_dir_name()+'assets/ami-transcripts-speaker/',
-                        help='AMI Corpus transcripts')
+                        help='AMI Corpus transcripts per speaker')
     parser.add_argument('--results_transcripts_dir', type=str,
                         default=utils.project_dir_name()+'assets/ami-transcripts/',
                         help='AMI Corpus transcripts')
