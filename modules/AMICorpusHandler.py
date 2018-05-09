@@ -202,7 +202,7 @@ class AMICorpusHandler:
                     story_filename = '{}.story'.format(meeting_name)
                 else:
                     speaker_letter = t.split('.')[1]
-                    story_filename = '{}.{}.story'.format(meeting_name, speaker_letter)
+                    story_filename = '{}_{}.story'.format(meeting_name, speaker_letter)
                 summary = open(summary_dir+s, 'r').read()
                 transcript = open(transcript_dir+t, 'r').read()
                 story_file = open(story_dir+story_filename, 'w')

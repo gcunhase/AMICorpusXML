@@ -29,7 +29,7 @@ if __name__ == '__main__':
     corpus_dir = amiCorpusHandler.get_corpus_directory()
 
     # Extract transcript for each subject
-    amiCorpusHandler.extract_transcript(do_transcripts_speaker=False)
+    amiCorpusHandler.extract_transcript(do_transcripts_speaker=True)
 
     # Extract summary
     amiCorpusHandler.extract_summary()
