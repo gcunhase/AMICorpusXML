@@ -1,0 +1,5 @@
+.idea/*
+*.pyc
+.DS_Store
+assets/ami*/*
+venv/*
