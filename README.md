@@ -9,29 +9,30 @@ Extract meetings transcript and summary from [AMI Corpus](http://groups.inf.ed.a
 ## Code
 * Configuration options:
   
-| **Argument**   | **Type**        | **Default**    | **Required?** |
-|----------------|-----------------|----------------|---------------|
-| `ami_xml_dir` | string          | `"assets/"`           | No            |
-| `results_transcripts_speaker_dir`      | string | `"assets/ami-transcripts-speaker/"`           | No            |
-| `results_transcripts_dir`        | string             | `"assets/ami-transcript/"`              | No            |
-| `results_summary_dir`  | string             | `"assets/ami-summary/"`             | No            |
+    | **Argument**   | **Type**        | **Default**    | **Required?** |
+    |----------------|-----------------|----------------|---------------|
+    | `ami_xml_dir` | string          | `"assets/"`           | No            |
+    | `results_transcripts_speaker_dir`      | string | `"assets/ami-transcripts-speaker/"`           | No            |
+    | `results_transcripts_dir`        | string             | `"assets/ami-transcript/"`              | No            |
+    | `results_summary_dir`  | string             | `"assets/ami-summary/"`             | No            |
 
-+ `ami_xml_dir` is the directory where the AMI Corpus will be downloaded
-+ `results_transcripts_speaker_dir` is the directory where each speaker's transcript will be saved 
-+ `results_transcripts_dir` is the directory where each meeting's transcript will be saved
-+ `results_summary_dir` is the directory where each meeting's summary will be saved
+    + `ami_xml_dir` is the directory where the AMI Corpus will be downloaded
+    + `results_transcripts_speaker_dir` is the directory where each speaker's transcript will be saved 
+    + `results_transcripts_dir` is the directory where each meeting's transcript will be saved
+    + `results_summary_dir` is the directory where each meeting's summary will be saved
 
-* AMI Corpus final results: downloaded AMI Public Corpus
-        .
+* AMI Corpus final results:
+
+        assets
+        +-- ami-summary 
+        +-- ami-transcripts 
+        +-- ami-transcripts-speaker
         +-- ami_public_manual_1.6.2
         |   +-- abstractive
         |   ...
         |   +-- words
         |   ...
-        ...
-        +-- ami-summary 
-        +-- ami-transcripts 
-        +-- ami-transcripts-speaker
+        
         
 ## Credit/Requirements
 * Minidom vs Element Tree: [Reading XML files in Python](http://stackabuse.com/reading-and-writing-xml-files-in-python/)
