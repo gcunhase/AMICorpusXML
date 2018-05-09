@@ -14,9 +14,10 @@ __author__ = "Gwena Cunha"
 
 
 class AMICorpusHandler:
-    def __init__(self, args, in_file_ext='xml'):
+    def __init__(self, args, in_file_ext='xml', out_file_ext='txt'):
         self.args = args
         self.in_file_ext = in_file_ext
+        self.out_file_ext = out_file_ext
 
         self.ami_dir = self.args.ami_xml_dir + 'ami_public_manual_1.6.2/'
         self.download_corpus()
@@ -45,8 +46,11 @@ class AMICorpusHandler:
         return self.ami_dir
 
     def extract_transcript(self, do_transcripts_speaker=True):
-        """ Extracts transcript for each speaker and also for the entire meeting, where each transcript is a line in a
-        new text file
+        """ Extracts transcript for each speaker (if boolean var is True) and also for the entire meeting,
+        where each transcript is a line in a new text file
+
+        :param do_transcripts_speaker: boolean to indicate if speaker transcription is needed
+        :return:
         """
         print("\nSaving transcripts in: {}".format(self.args.results_transcripts_dir))
 
@@ -55,7 +59,7 @@ class AMICorpusHandler:
 
         # Get every file
         transcript_speaker_dir = self.args.results_transcripts_speaker_dir
-        transcript_speaker_files = [f for f in os.listdir(transcript_speaker_dir) if f.endswith('.txt')]
+        transcript_speaker_files = [f for f in os.listdir(transcript_speaker_dir) if f.endswith('.{}'.format(self.out_file_ext))]
 
         # Group speaker files by meeting
         group_speaker_files = defaultdict(list)
@@ -100,6 +104,12 @@ class AMICorpusHandler:
         print("Transcripts: {}".format(len(words_files)))
 
     def extract_transcript_single_file(self, words_dir, filename):
+        """ Extract transcript for a single file
+
+        :param words_dir: directory containing .xml files with meeting transcription
+        :param filename: name of each .xml meeting file
+        :return:
+        """
         # parse an xml file by name
         mydoc = minidom.parse(words_dir + filename)
 
@@ -117,11 +127,13 @@ class AMICorpusHandler:
         # transcript += '\n'
 
         # Save transcript
-        results_filename = filename.split('.words.{}'.format(self.in_file_ext))[0] + '.transcript.txt'
+        results_filename = filename.split('.words.{}'.format(self.in_file_ext))[0] + '.transcript.{}'.format(self.out_file_ext)
         self.save_file(transcript, self.args.results_transcripts_speaker_dir, results_filename)
         return transcript
 
     def extract_summary(self):
+        """ Extract summary from each meeting
+        """
         print("\nExtracting summaries to: {}".format(self.args.results_summary_dir))
         sum_dir = self.ami_dir + 'abstractive/'
         utils.ensure_dir(self.args.results_summary_dir)
@@ -132,6 +144,12 @@ class AMICorpusHandler:
         print("Summaries: {}".format(len(sum_files)))
 
     def extract_summary_single_file(self, summary_dir, summary_filename):
+        """ Extract summary from one meeting (one file)
+
+        :param summary_dir: directory containing .xml files with meeting abstract/summary
+        :param summary_filename: name of each summary file
+        :return:
+        """
         # parse an xml file by name
         mydoc = minidom.parse(summary_dir + summary_filename)
         items = mydoc.getElementsByTagName('abstract')
@@ -139,11 +157,60 @@ class AMICorpusHandler:
 
         # Save summary
         results_dir = self.args.results_summary_dir
-        results_filename = summary_filename.replace('.{}'.format(self.in_file_ext), '.txt')
+        results_filename = summary_filename.replace('.{}'.format(self.in_file_ext), '.{}'.format(self.out_file_ext))
         #  summary_filename.split('.{}'.format(self.in_file_ext))[0] + '.summary.txt'  # '.summary.txt'
         self.save_file(summary, results_dir, results_filename)
 
         return summary
+
+    def check_for_meeting_summary(self, meeting_name, summary_files):
+        """ Check if summary exists for a certain meeting
+
+        :param meeting_name: prefix indicating meeting name
+        :param summary_files: existing summary files
+        :return:
+        """
+        for s in summary_files:
+            if meeting_name in s:
+                return s
+        return None
+
+    def transform_to_story(self, is_speaker_transcript=False):
+        """ Transform AMI Corpus into CNN-DailyMail News Dataset story format
+
+        :param is_speaker_transcript: boolean indicating if transcripts are from each speaker or of all together
+        :return:
+        """
+        if is_speaker_transcript:
+            transcript_dir = self.args.results_transcripts_dir
+        else:
+            transcript_dir = self.args.results_transcripts_speaker_dir
+        transcript_files = [f for f in os.listdir(transcript_dir) if f.endswith('.{}'.format(self.out_file_ext))]
+
+        summary_dir = self.args.results_summary_dir
+        summary_files = [f for f in os.listdir(summary_dir) if f.endswith('.{}'.format(self.out_file_ext))]
+
+        story_dir = utils.get_new_data_dir_name(transcript_dir, '-stories')
+        utils.ensure_dir(story_dir)
+        for t in transcript_files:
+            # Check if meeting transcript exists
+            meeting_name = t.split('.')[0]
+            print(meeting_name)
+            s = self.check_for_meeting_summary(meeting_name, summary_files)
+            if s is not None:
+                if is_speaker_transcript:
+                    story_filename = '{}.story'.format(meeting_name)
+                else:
+                    speaker_letter = t.split('.')[1]
+                    story_filename = '{}.{}.story'.format(meeting_name, speaker_letter)
+                summary = open(summary_dir+s, 'r').read()
+                transcript = open(transcript_dir+t, 'r').read()
+                story_file = open(story_dir+story_filename, 'w')
+                if is_speaker_transcript:
+                    story_file.write('{}\n@highlight\n\n{}'.format(transcript, summary))
+                else:
+                    story_file.write('{}\n\n@highlight\n\n{}'.format(transcript, summary))
+                story_file.close()
 
     def save_file(self, text, dir, filename):
         utils.ensure_dir(dir)
