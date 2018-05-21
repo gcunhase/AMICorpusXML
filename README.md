@@ -41,3 +41,7 @@
 * Minidom vs Element Tree: [Reading XML files in Python](http://stackabuse.com/reading-and-writing-xml-files-in-python/)
 * Minidom: XML parser for Python
 * OS: Ubuntu 16.04
+
+## TODO
+* Overlapping meeting transcript
+* Decision abstract
