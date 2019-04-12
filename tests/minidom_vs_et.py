@@ -1,8 +1,11 @@
 from xml.dom import minidom
 import xml.etree.ElementTree as ET
-from modules import utils
+import utils
 
 """
+    Test Minidom versus Element Tree to read .xml file
+    Chosen: minidom
+    
     Source: http://stackabuse.com/reading-and-writing-xml-files-in-python/
 """
 
@@ -59,7 +62,7 @@ def test_element_tree(filename):
 
 
 if __name__ == '__main__':
-    filename = utils.project_dir_name() + 'assets/test.xml'
+    filename = utils.project_dir_name() + 'data/test.xml'
 
     # test_minidom(filename)
 

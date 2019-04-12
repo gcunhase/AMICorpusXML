@@ -1,7 +1,7 @@
 
 import argparse
-from modules import utils
-from modules. AMICorpusHandler import AMICorpusHandler
+import utils
+from AMICorpusHandler import AMICorpusHandler
 
 
 """ Module to parse XML in Python using minidom
@@ -10,16 +10,16 @@ from modules. AMICorpusHandler import AMICorpusHandler
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Extracts transcript and summary from AMI Corpus.')
-    parser.add_argument('--ami_xml_dir', type=str, default=utils.project_dir_name()+'assets/',
+    parser.add_argument('--ami_xml_dir', type=str, default=utils.project_dir_name() + '/data/',
                         help='AMI Corpus download directory')
     parser.add_argument('--results_transcripts_speaker_dir', type=str,
-                        default=utils.project_dir_name()+'assets/ami-transcripts-speaker/',
+                        default=utils.project_dir_name() + '/data/ami-transcripts-speaker/',
                         help='AMI Corpus transcripts per speaker')
     parser.add_argument('--results_transcripts_dir', type=str,
-                        default=utils.project_dir_name()+'assets/ami-transcripts/',
+                        default=utils.project_dir_name() + '/data/ami-transcripts/',
                         help='AMI Corpus transcripts')
     parser.add_argument('--results_summary_dir', type=str,
-                        default=utils.project_dir_name() + 'assets/ami-summary/',
+                        default=utils.project_dir_name() + '/data/ami-summary/',
                         help='AMI Corpus summaries')
     args = parser.parse_args()
 

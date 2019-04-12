@@ -1,6 +1,6 @@
 
 from xml.dom import minidom
-from modules import utils
+import utils
 import os
 import urllib.request
 import zipfile
@@ -19,7 +19,7 @@ class AMICorpusHandler:
         self.in_file_ext = in_file_ext
         self.out_file_ext = out_file_ext
 
-        self.ami_dir = self.args.ami_xml_dir + 'ami_public_manual_1.6.2/'
+        self.ami_dir = self.args.ami_xml_dir + 'ami_public_manual_1.6.2'
         self.download_corpus()
 
     def download_corpus(self):
@@ -28,8 +28,8 @@ class AMICorpusHandler:
         :return: directory where AMI Corpus is located
         """
         download_link = 'http://groups.inf.ed.ac.uk/ami/AMICorpusAnnotations/ami_public_manual_1.6.2.zip'
-        directory = os.path.dirname(self.ami_dir)
-        if not os.path.exists(directory):
+        # directory = os.path.dirname(self.ami_dir)
+        if not os.path.exists(self.ami_dir):
             print("Downloading AMI Corpus to: {}".format(self.ami_dir))
             zipped_ami_filename = self.ami_dir + '.zip'
             urllib.request.urlretrieve(download_link, zipped_ami_filename)
@@ -95,7 +95,7 @@ class AMICorpusHandler:
         """
         print("Extracting speaker transcripts to: {}".format(self.args.results_transcripts_speaker_dir))
 
-        words_dir = self.ami_dir + 'words/'
+        words_dir = self.ami_dir + '/words/'
         utils.ensure_dir(self.args.results_transcripts_speaker_dir)
         words_files = [f for f in os.listdir(words_dir) if f.endswith('.{}'.format(self.in_file_ext))]
         for words_filename in words_files:
@@ -135,7 +135,7 @@ class AMICorpusHandler:
         """ Extract summary from each meeting
         """
         print("\nExtracting summaries to: {}".format(self.args.results_summary_dir))
-        sum_dir = self.ami_dir + 'abstractive/'
+        sum_dir = self.ami_dir + '/abstractive/'
         utils.ensure_dir(self.args.results_summary_dir)
         sum_files = [f for f in os.listdir(sum_dir) if f.endswith('.{}'.format(self.in_file_ext))]
         for sum_filename in sum_files:
