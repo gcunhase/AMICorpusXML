@@ -1,5 +1,6 @@
 .idea/*
 *.pyc
 .DS_Store
-assets/ami*/*
-venv/*
+data/ami*/*
+!data/ami-transcripts-stories/*
+venv*/*
