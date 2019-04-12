@@ -23,12 +23,12 @@ python main_extract_meeting_text.py
 
 #### Configuration options
 
-| **Argument**                      | **Type** | **Default**                         | **Required?** |
-|-----------------------------------|----------|-------------------------------------|---------------|
-| `ami_xml_dir`                     | string   | `"data/"`                         | No            |
-| `results_transcripts_speaker_dir` | string   | `"data/ami-transcripts-speaker/"` | No            |
-| `results_transcripts_dir`         | string   | `"data/ami-transcript/"`          | No            |
-| `results_summary_dir`             | string   | `"data/ami-summary/"`             | No            |
+| **Argument**                      | **Type** | **Default**                       |
+|-----------------------------------|----------|-----------------------------------|
+| `ami_xml_dir`                     | string   | `"data/"`                         |
+| `results_transcripts_speaker_dir` | string   | `"data/ami-transcripts-speaker/"` |
+| `results_transcripts_dir`         | string   | `"data/ami-transcript/"`          |
+| `results_summary_dir`             | string   | `"data/ami-summary/"`             |
 + `ami_xml_dir` is the directory where the AMI Corpus will be downloaded
 + `results_transcripts_speaker_dir` is the directory where each speaker's transcript will be saved 
 + `results_transcripts_dir` is the directory where each meeting's transcript will be saved
