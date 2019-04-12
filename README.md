@@ -3,9 +3,9 @@
 * Transforms into CNN-DailyMail News dataset (`.story` files with article and highlight in it)
 
 #### Contents
-[AMI Corpus](#ami-corpus-info) • [Story Dataset](#story-dataset) • [How to Make](#how-to-make) 
+[AMI Corpus](#ami-corpus) • [Story Dataset](#story-dataset) • [How to Make](#how-to-make) 
         
-## AMI Corpus info
+## AMI Corpus
 * Number of meetings (including scenario and non-scenario): 171
     * Number of speakers per meeting: 4-5
     * Total number of transcripts: 687
