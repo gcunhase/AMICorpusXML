@@ -1,0 +1,1 @@
+The User Interface Designer presented the major components of the interface design, dividing the interface into two parts: voice commands and buttons.

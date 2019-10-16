@@ -47,16 +47,28 @@ class AMICorpusHandler:
 
     def extract_transcript(self, do_transcripts_speaker=True):
         """ Extracts transcript for each speaker (if boolean var is True) and also for the entire meeting,
-        where each transcript is a line in a new text file
+        where each transcript is a line in a new text file.
+
+            Summaries are originally saved in `data/ami_public_manual_1.6.2/words/`:
+              * Example: `EN2001a.A.words.xml`
+              * Meeting name: `EN2001`
+              * Meetings are divided into 1 hour parts: `a` (each hour is a consecutive lowercase letter)
+              * Speaker: `A` (usually there are four speakers named A, B, C and D, but E is sometimes also present)
+            Each `.xml` file has a number of tags with the words and their respective times in the audio/video file.
+             In order for us to extract the summaries, we have to put those words back together in sentences and paragraphs.
+             Thus xml parsing is required.
+
+            Output: 2 folders with corresponding .txt files
+              * `data/ami-transcripts-speaker/`: meeting transcripts for each speaker
+              * `data/ami-transcripts/`: complete meeting transcripts (all speakers together)
 
         :param do_transcripts_speaker: boolean to indicate if speaker transcription is needed
         :return:
         """
-        print("\nSaving transcripts in: {}".format(self.args.results_transcripts_dir))
-
         if do_transcripts_speaker:
             self.extract_transcript_speaker()
 
+        print("\nSaving transcripts in: {}".format(self.args.results_transcripts_dir))
         # Get every file
         transcript_speaker_dir = self.args.results_transcripts_speaker_dir
         transcript_speaker_files = [f for f in os.listdir(transcript_speaker_dir) if f.endswith('.{}'.format(self.out_file_ext))]
@@ -69,8 +81,6 @@ class AMICorpusHandler:
                 group_speaker_files[meeting].append(t)
             else:
                 group_speaker_files[meeting] = [t]
-
-        # print(group_speaker_files)
 
         # Directory to save meetings transcripts
         transcript_dir = self.args.results_transcripts_dir
@@ -104,7 +114,7 @@ class AMICorpusHandler:
         print("Transcripts: {}".format(len(words_files)))
 
     def extract_transcript_single_file(self, words_dir, filename):
-        """ Extract transcript for a single file
+        """ Extract transcript for a single .xml file
 
         :param words_dir: directory containing .xml files with meeting transcription
         :param filename: name of each .xml meeting file
@@ -131,23 +141,34 @@ class AMICorpusHandler:
         self.save_file(transcript, self.args.results_transcripts_speaker_dir, results_filename)
         return transcript
 
-    def extract_summary(self):
-        """ Extract summary from each meeting
+    def extract_abstractive_summary(self):
+        """ Obtain abstractive summary from each meeting
+              * Located in `data/ami_public_manual_1.6.2/abstractive/*.xml`
         """
-        print("\nExtracting summaries to: {}".format(self.args.results_summary_dir))
+        print("\nObtaining abstractive summaries to: {}".format(self.args.results_summary_dir))
         sum_dir = self.ami_dir + '/abstractive/'
-        utils.ensure_dir(self.args.results_summary_dir)
         sum_files = [f for f in os.listdir(sum_dir) if f.endswith('.{}'.format(self.in_file_ext))]
-        for sum_filename in sum_files:
-            # print("Extracting summary from {}".format(sum_filename))
-            self.extract_summary_single_file(sum_dir, sum_filename)
-        print("Summaries: {}".format(len(sum_files)))
+        utils.ensure_dir(self.args.results_summary_dir)
 
-    def extract_summary_single_file(self, summary_dir, summary_filename):
-        """ Extract summary from one meeting (one file)
+        # Obtain summary with only 1 sentence/highlight
+        results_abstractive_summary_dir = '{}/{}-one_highlight/'.format(self.args.results_summary_dir,
+                                                                        utils.ABSTRACTIVE_SUMMARY_TAG)
+        for sum_filename in sum_files:
+            self.extract_abstractive_summary_single_file_single_highlight(sum_dir, sum_filename, results_abstractive_summary_dir)
+
+        # Obtain summary with only all available sentences/highlights
+        results_abstractive_summary_dir = '{}/{}/'.format(self.args.results_summary_dir, utils.ABSTRACTIVE_SUMMARY_TAG)
+        for sum_filename in sum_files:
+            self.extract_abstractive_summary_single_file(sum_dir, sum_filename, results_abstractive_summary_dir)
+
+    def extract_abstractive_summary_single_file_single_highlight(self, summary_dir, summary_filename, results_dir):
+        """ Obtain abstractive summary (1 sentence/highlight) from one meeting (one file)
+              * Extract text between `abstract` tag
+              * Return first element inside this tag
 
         :param summary_dir: directory containing .xml files with meeting abstract/summary
         :param summary_filename: name of each summary file
+        :param results_dir: directory to save .txt files with summaries
         :return:
         """
         # parse an xml file by name
@@ -156,7 +177,75 @@ class AMICorpusHandler:
         summary = items[0].firstChild.nextSibling.firstChild.data
 
         # Save summary
-        results_dir = self.args.results_summary_dir
+        # results_dir = self.args.results_summary_dir
+        results_filename = summary_filename.replace('.{}'.format(self.in_file_ext), '.{}'.format(self.out_file_ext))
+        #  summary_filename.split('.{}'.format(self.in_file_ext))[0] + '.summary.txt'  # '.summary.txt'
+        self.save_file(summary, results_dir, results_filename)
+
+        return summary
+
+    def extract_abstractive_summary_single_file(self, summary_dir, summary_filename, results_dir):
+        """ Obtain abstractive summary (ALL sentences/highlights) from one meeting (one file)
+              * Extract text between `abstract` tag
+              * Text between `abstract` tag is composed of text in `sentence` tags
+              * Return all these tags as a paragraph
+
+        :param summary_dir: directory containing .xml files with meeting abstract/summary
+        :param summary_filename: name of each summary file
+        :param results_dir: directory to save .txt files with summaries
+        :return:
+        """
+        # parse an xml file by name
+        mydoc = minidom.parse(summary_dir + summary_filename)
+        items = mydoc.getElementsByTagName('abstract')
+        items_sentences = items[0].getElementsByTagName('sentence')
+        summary = ''
+        for item in items_sentences:
+            summary += item.firstChild.data + ' '
+
+        # Save summary
+        # results_dir = self.args.results_summary_dir
+        results_filename = summary_filename.replace('.{}'.format(self.in_file_ext), '.{}'.format(self.out_file_ext))
+        #  summary_filename.split('.{}'.format(self.in_file_ext))[0] + '.summary.txt'  # '.summary.txt'
+        self.save_file(summary, results_dir, results_filename)
+
+        return summary
+
+    def extract_extractive_summary(self):
+        """ Extract summary from each meeting
+              * Located in `data/ami_public_manual_1.6.2/extractive/*.xml`
+        """
+        print("\nObtaining extractive summaries to: {}".format(self.args.results_summary_dir))
+        sum_dir = self.ami_dir + '/extractive/'
+        utils.ensure_dir(self.args.results_summary_dir)
+        results_extractive_summary_dir = os.path.join(self.args.results_summary_dir, utils.EXTRACTIVE_SUMMARY_TAG, '/')
+        sum_files = [f for f in os.listdir(sum_dir) if f.endswith('.{}'.format(self.in_file_ext))]
+        for sum_filename in sum_files:
+            print("Extracting summary from {}".format(sum_filename))
+            self.extract_extractive_summary_single_file(sum_dir, sum_filename, results_extractive_summary_dir)
+        print("Summaries: {}".format(len(sum_files)))
+
+    def extract_extractive_summary_single_file(self, summary_dir, summary_filename, results_dir):
+        """ Obtain extractive summary (ALL sentences/highlights) from one meeting (one file)
+              * Extract text between `extsumm` tag
+              * Text between `abstract` tag is composed of text in `sentence` tags
+              * Return all these tags as a paragraph
+
+        :param summary_dir: directory containing .xml files with meeting abstract/summary
+        :param summary_filename: name of each summary file
+        :param results_dir: directory to save .txt files with summaries
+        :return:
+        """
+        # parse an xml file by name
+        mydoc = minidom.parse(summary_dir + summary_filename)
+        items = mydoc.getElementsByTagName('extsumm')
+        items_sentences = items[0].getElementsByTagName('sentence')
+        summary = ''
+        for item in items_sentences:
+            summary += item.firstChild.data + ' '
+
+        # Save summary
+        # results_dir = self.args.results_summary_dir
         results_filename = summary_filename.replace('.{}'.format(self.in_file_ext), '.{}'.format(self.out_file_ext))
         #  summary_filename.split('.{}'.format(self.in_file_ext))[0] + '.summary.txt'  # '.summary.txt'
         self.save_file(summary, results_dir, results_filename)

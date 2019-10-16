@@ -1,0 +1,1 @@
+The Project Manager opened the meeting by reviewing the decisions from the previous meeting (to use voice recognition instead of the touch screen, to hide the complicated features, and to start building the prototype).

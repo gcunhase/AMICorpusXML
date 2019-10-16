@@ -2,6 +2,10 @@
 import os
 
 
+ABSTRACTIVE_SUMMARY_TAG = 'abstractive'
+EXTRACTIVE_SUMMARY_TAG = 'extractive'
+
+
 def project_dir_name():
     current_dir = os.path.abspath(os.path.dirname(__file__))
     return current_dir
