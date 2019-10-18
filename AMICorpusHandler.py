@@ -211,59 +211,6 @@ class AMICorpusHandler:
 
         return summary
 
-    def extract_extractive_summary(self):
-        """ Extract summary from each meeting
-              * Located in `data/ami_public_manual_1.6.2/extractive/*.xml`
-        """
-        print("\nObtaining extractive summaries to: {}".format(self.args.results_summary_dir))
-        sum_dir = self.ami_dir + '/extractive/'
-        utils.ensure_dir(self.args.results_summary_dir)
-        results_extractive_summary_dir = os.path.join(self.args.results_summary_dir, utils.EXTRACTIVE_SUMMARY_TAG, '/')
-        sum_files = [f for f in os.listdir(sum_dir) if f.endswith('.{}'.format(self.in_file_ext))]
-        for sum_filename in sum_files:
-            print("Extracting summary from {}".format(sum_filename))
-            self.extract_extractive_summary_single_file(sum_dir, sum_filename, results_extractive_summary_dir)
-        print("Summaries: {}".format(len(sum_files)))
-
-    def extract_extractive_summary_single_file(self, summary_dir, summary_filename, results_dir):
-        """ Obtain extractive summary (ALL sentences/highlights) from one meeting (one file)
-              * Extract text between `extsumm` tag
-              * Text between `abstract` tag is composed of text in `sentence` tags
-              * Return all these tags as a paragraph
-
-        :param summary_dir: directory containing .xml files with meeting abstract/summary
-        :param summary_filename: name of each summary file
-        :param results_dir: directory to save .txt files with summaries
-        :return:
-        """
-        # parse an xml file by name
-        mydoc = minidom.parse(summary_dir + summary_filename)
-        items = mydoc.getElementsByTagName('extsumm')
-        items_sentences = items[0].getElementsByTagName('sentence')
-        summary = ''
-        for item in items_sentences:
-            summary += item.firstChild.data + ' '
-
-        # Save summary
-        # results_dir = self.args.results_summary_dir
-        results_filename = summary_filename.replace('.{}'.format(self.in_file_ext), '.{}'.format(self.out_file_ext))
-        #  summary_filename.split('.{}'.format(self.in_file_ext))[0] + '.summary.txt'  # '.summary.txt'
-        self.save_file(summary, results_dir, results_filename)
-
-        return summary
-
-    def check_for_meeting_summary(self, meeting_name, summary_files):
-        """ Check if summary exists for a certain meeting
-
-        :param meeting_name: prefix indicating meeting name
-        :param summary_files: existing summary files
-        :return:
-        """
-        for s in summary_files:
-            if meeting_name in s:
-                return s
-        return None
-
     def transform_to_story(self, is_speaker_transcript=False):
         """ Transform AMI Corpus into CNN-DailyMail News Dataset story format
 

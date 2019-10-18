@@ -3,7 +3,6 @@ import os
 
 
 ABSTRACTIVE_SUMMARY_TAG = 'abstractive'
-EXTRACTIVE_SUMMARY_TAG = 'extractive'
 
 
 def project_dir_name():
