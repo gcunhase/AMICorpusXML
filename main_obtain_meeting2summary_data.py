@@ -10,9 +10,9 @@ import os
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Extracts transcript and summary from AMI Corpus.')
-    parser.add_argument('--summary_type', type=str, default=utils.EXTRACTIVE_SUMMARY_TAG,
-                        help='Type of summary to be extracted. Options=["{}", "{}"].'.
-                        format(utils.ABSTRACTIVE_SUMMARY_TAG, utils.EXTRACTIVE_SUMMARY_TAG))
+    parser.add_argument('--summary_type', type=str, default=utils.ABSTRACTIVE_SUMMARY_TAG,
+                        help='Type of summary to be extracted. Options=["{}"].'.
+                        format(utils.ABSTRACTIVE_SUMMARY_TAG))
     # parser.add_argument('--ami_xml_dir', type=str, default=os.path.join(project_dir, 'data/'),
     parser.add_argument('--ami_xml_dir', type=str, default='data/',
                         help='AMI Corpus download directory')
