@@ -3,6 +3,7 @@ import os
 
 
 ABSTRACTIVE_SUMMARY_TAG = 'abstractive'
+EXTRACTIVE_SUMMARY_TAG = 'extractive'
 
 
 def project_dir_name():
@@ -22,5 +23,5 @@ def get_new_data_dir_name(data_dir, extension):
     for i in range(0, len(data_dir_split)-2):
         new_data_dir = new_data_dir+data_dir_split[i]+"/"
     new_data_dir = new_data_dir+data_dir_split[max(0, len(data_dir_split)-2)]+extension+"/"
-    print("New data_dir: "+new_data_dir)
+    # print("New data_dir: "+new_data_dir)
     return new_data_dir
