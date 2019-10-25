@@ -32,7 +32,7 @@ python main_obtain_meeting2summary_data.py --summary_type abstractive
 
 | **Argument**                      | **Type** | **Default**                       |
 |-----------------------------------|----------|-----------------------------------|
-| `summary_type`                     | string   | `"abstractive"`                         |
+| `summary_type`                    | string   | `"abstractive"`                   |
 | `ami_xml_dir`                     | string   | `"data/"`                         |
 | `results_transcripts_speaker_dir` | string   | `"data/ami-transcripts-speaker/"` |
 | `results_transcripts_dir`         | string   | `"data/ami-transcript/"`          |

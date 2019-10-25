@@ -2,5 +2,5 @@
 *.pyc
 .DS_Store
 data/ami_*/*
-data/ami-summary/.DS_Store
+data/*/.DS_Store
 venv*/*
