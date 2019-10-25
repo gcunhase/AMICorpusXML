@@ -4,7 +4,7 @@
 * Extracts meetings transcript and summary from [AMI Meeting Corpus](http://groups.inf.ed.ac.uk/ami/download/): extractive and abstractive
 * Transforms into CNN-DailyMail News dataset (`.story` files with article and highlight in it)
 
-#### Contents
+### Contents
 [Requirements](#requirements) • [About AMI Meeting Corpus](#ami-corpus) • [How to Use](#how-to-use) • [How to Cite](#acknowledgement) 
         
 ## Requirements
