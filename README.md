@@ -10,7 +10,7 @@
 ## Requirements
 Tested on Python 3.6+, Ubuntu 16.04, Mac OS
 
-`pip install -r requirements.txt`
+`pip install nltk`
 
 ## AMI Meeting Corpus
 * [More info](http://groups.inf.ed.ac.uk/ami/download/)
