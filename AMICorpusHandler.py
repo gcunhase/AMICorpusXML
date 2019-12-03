@@ -40,14 +40,17 @@ class AMICorpusHandler:
         download_link = 'http://groups.inf.ed.ac.uk/ami/AMICorpusAnnotations/ami_public_manual_1.6.2.zip'
         # directory = os.path.dirname(self.ami_dir)
         if not os.path.exists(self.ami_dir):
+            # 1. Ensure data directory exists
+            utils.ensure_dir(self.args.ami_xml_dir)
+            # 2. Download AMI Corpus
             print("Downloading AMI Corpus to: {}".format(self.ami_dir))
             zipped_ami_filename = self.ami_dir + '.zip'
             urllib.request.urlretrieve(download_link, zipped_ami_filename)
-            # Unzip zip file
+            # 3. Unzip zip file
             zip_ref = zipfile.ZipFile(zipped_ami_filename, 'r')
             zip_ref.extractall(self.ami_dir)
             zip_ref.close()
-            # Delete zip file
+            # 4. Delete zip file
             os.remove(zipped_ami_filename)
         else:
             print("AMI Corpus has already been downloaded in: {}".format(self.ami_dir))
