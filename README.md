@@ -19,7 +19,7 @@ Tested on Python 3.6+, Ubuntu 16.04, Mac OS
     * Total number of transcripts: 687
 * Number of summaries: 142 (abstractive) and 137 (extractive)
     * Only available for meetings with names starting with *ES*, *IS* and *TS*
-    
+
 ## How to Use
 
 Download AMI Corpus and extract `.story` files
@@ -90,6 +90,11 @@ python main_obtain_meeting2summary_data.py --summary_type abstractive
 * XML reader in Python:
     * Minidom vs Element Tree: [Reading XML files in Python](http://stackabuse.com/reading-and-writing-xml-files-in-python/)
     * Minidom: XML parser for Python
+
+* Script `ami_dialsum_meeting_story.py`:
+    * This script takes 2 text files (`in` and `sum`) and formats it into a series of `.story` files compatible with the CNN/DM format
+    * Each line in file `in` corresponds to a meeting transcript with summary present in the same line in file `sum`/.
+    * Implemented to deal with a modified version of the AMI Meeting Dataset called [DialSum](https://github.com/MiuLab/DialSum).
 
 * TODO
     * Overlapping meeting transcript
