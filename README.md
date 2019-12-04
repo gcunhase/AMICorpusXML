@@ -5,7 +5,7 @@
 * Transforms into CNN-DailyMail News dataset (`.story` files with article and highlight in it)
 
 ### Contents
-[Requirements](#requirements) • [About AMI Meeting Corpus](#ami-corpus) • [AMI DialSum Corpus](#ami-dialsum-meeting-corpus) • [How to Use](#how-to-use) • [How to Cite](#acknowledgement) 
+[Requirements](#requirements) • [About AMI Meeting Corpus](#ami-meeting-corpus) • [AMI DialSum Corpus](#extra-ami-dialsum-meeting-corpus) • [How to Use](#how-to-use) • [How to Cite](#acknowledgement) 
         
 ## Requirements
 Tested on Python 3.6+, Ubuntu 16.04, Mac OS
@@ -86,7 +86,7 @@ python main_obtain_meeting2summary_data.py --summary_type abstractive
         * Return all the collected words as a paragraph
     * Output: `data/ami-summary/extractive/`
     
-## AMI DialSum Meeting Corpus
+## Extra: AMI DialSum Meeting Corpus
 * [DialSum](https://github.com/MiuLab/DialSum): modified version of the AMI Meeting Dataset
 * Use script `ami_dialsum_meeting_story.py`:
     * This script takes 2 text files (`in` and `sum`) and formats it into a series of `.story` files compatible with the CNN/DM format
