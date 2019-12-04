@@ -1,0 +1,7 @@
+most people , yeah . <EOS> mm . <EOS> mm-hmm . <EOS> sure . i think that's fair yeah . <EOS> mm . <EOS> um , i mean <EOS> i imagine as well that the actual l_c_d_ and maybe to a certain extent the joystick as well would be for the additional functionality . <EOS> which maybe doesn't get used as often , <EOS> maybe it makes it easy for them to figure out how to um change the channels as in the frequencies and such for reprogramming it . <EOS> um and you can still have the main buttons that allow the people to turn the machine on and off , d up and down , <EOS> it depends , <EOS> i mean <EOS> maybe we have the fol um the joystick as a separate one for the other functions then , <EOS> that there's just a a small number of as you were saying uh buttons that have already been defined . <EOS> so like <EOS> we go for the nice standard um up and down for and volume control . <EOS> so that literally anybody can come along , pick up the remote and still know what do do . <EOS> and they can completely ignore most of the functionality which would be for say the o actual owner of the the t_v_ <EOS> and who would normally use the unit . <EOS> i dunno . <EOS>
+
+
+
+@highlight
+
+user target group look and usability

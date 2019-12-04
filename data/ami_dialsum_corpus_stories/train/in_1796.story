@@ -1,0 +1,7 @@
+mm . course not . <EOS> there you go . <EOS> cool , <EOS> um . okay . um . <EOS> well this is just the working design um . <EOS> well this is just what how i would go about it . <EOS> um i guess i try to define like what we're doing now , <EOS> try to define what we're trying to get done . <EOS> um i think in a practical way , we kind of know what it is . <EOS> we've used it , <EOS> we're familiar with it , <EOS> but we're we can't n we haven't narrowed down um exactly what the things we're trying to fulfil , like <EOS> besides the basics , <EOS> i think back in the back of our minds we know what the basics are . <EOS> has to change channels , has to change volume , <EOS> but in like specifics , right , which one of the basics are you trying to target . <EOS> um are there certain parts of the basics that are more important or less important than the basics ? <EOS> um and i just <EOS> the idea is just to get everybody to um <EOS> i usually have a have have a design that's there as a basic , <EOS> so , you know , things that to start everything going . <EOS> but i guess everybody does have some idea , <EOS> so i don't think um there's a need for that . <EOS>
+
+
+
+@highlight
+
+industrial designer presentation

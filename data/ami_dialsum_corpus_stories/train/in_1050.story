@@ -1,0 +1,7 @@
+okay , very good . <EOS> thanks for being here . <EOS> um so let's have a look to the the agenda . <EOS> so , we are going to go through this agenda <EOS> uh and mainly first to uh to make to to be used to the tools uh available in this nice and smart meeting room we have here . <EOS> um then we'll go to uh the plans for project and have general discussions about it . <EOS> so , the goal of this project is to uh developed a new remote control . <EOS> um it should be original , trendy , and also user friendly . <EOS> as usual we will follow the the project method um that we are using in the in our company . <EOS> it is in three step as you know . <EOS> first the functional design . <EOS> the second's a conceptual design , <EOS> and then the detailed design . <EOS> during each step uh of each design we wi you will work uh s separately , individually on uh your specific tasks <EOS> and will m we will meet to um to discuss and take decisions about uh what you've you've you did and what uh we will do next . <EOS> so first , we have to to train ourself with all the um the tools availables in the in this nice meeting room and uh particularly the the white board <EOS> so uh we are going to go through the white board and take some um s some notes or do some drawings . <EOS> so who want to start ? <EOS>
+
+
+
+@highlight
+
+project specs and roles of participants

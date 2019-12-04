@@ -1,0 +1,7 @@
+yep . <EOS> ooh , <EOS> i just got an idea for a design . <EOS> good . <EOS> anybody have anything else they'd like to bring up in this meeting ? <EOS> i had something , but i forgot . <EOS> okay . get out of here . <EOS> let's go back to the meeting closure then and see what we need to do next . mm . <EOS> alright . <EOS> after this meeting we're gonna be sent a questionnaire and summary again which we need to reply to that e-mail . <EOS> and then we're gonna have lunch break . <EOS> and after lunch thirty minutes of individual work time . <EOS> um i'm gonna put the minutes <EOS> i put the minutes for the first meeting already in the project documents folder , <EOS> if you'd like to review them . <EOS> and i'm gonna type up the minutes for this one as well . <EOS> um here's what we're each going to do . <EOS> the i_d_ is going to work on the components concept , <EOS> um u_i_d_ the user interface concept , <EOS> and you're going to do some trend watching . <EOS> 'kay . <EOS> specific instructions will be sent to you by your personal coach . <EOS> and if anybody has anything they would like to add ? <EOS> no ? <EOS> okay , well , this meeting is officially over . <EOS> thank you all . <EOS>
+
+
+
+@highlight
+
+look and usability closing

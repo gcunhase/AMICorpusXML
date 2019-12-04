@@ -1,0 +1,7 @@
+so um <EOS> i wan i wanna go through not not just addressing the um uh the the points that you made , sarah , <EOS> but um doing my presentation in the order i wrote it . <EOS> so first of all um i wanna talk about what possibilities we've got for the energy source . <EOS> um we can have your bog standard double double a_ batteries in a replaceable um little compartment . <EOS> we can have a hand <EOS> sorry <EOS> a wind-up , yeah , <EOS> which i think is quite an interesting concept for a sorry for a remote control , <EOS> but i it maybe is doesn't quite go with the um the fruit and veg . <EOS> um one that one that i think is quite interesting is the kinetic energy source , <EOS> where um you you actually get the energy by moving the device , <EOS> which is quite a ni a nice and neat one . <EOS> you have to <EOS> it means that if it's sitting there for a long time it probably won't work , <EOS> but you have to sort of throw it between your hands every now and then , <EOS> it'll work . <EOS> or we we had talked about solar power , <EOS> but i thing that we agreed that that's not so good in the dark . <EOS>
+
+
+
+@highlight
+
+industrial designer presentation components , materials and energy sources

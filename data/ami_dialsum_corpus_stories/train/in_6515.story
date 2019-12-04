@@ -1,0 +1,7 @@
+mm-hmm . <EOS> mm-hmm . <EOS> uh-huh . <EOS> mm-hmm . <EOS> th okay , the basic thing is there's a user interface <EOS> where people punch a button or talk into it or smile to it or blink their eyes , whatever . <EOS> you know , and that um picks up an input from a user , <EOS> um uh a logic <EOS> a series of logic has to decide what the user is telling the device , <EOS> and the device has to r you know , based on you push button a_ , so i will do something with button a_ . <EOS> so maybe button a_ is the power button , okay . <EOS> um and then it needs to be able to send the signal out to the device itself <EOS> which is the receiver here . <EOS> um and i think that's about it in terms of my design um . <EOS> it's fairly general , <EOS> um and i guess the purpose of this is also not to restrict you in in the way you're thinking , <EOS> like um voice recognition , right , <EOS> um , <EOS> if it's something which is important then we just add more power <EOS> rather than having a thing that we don't have enough power . <EOS> so it's not really a constraint in that sense , <EOS> but i mean these are functionally , you know , the base , <EOS> what the technology has to do . <EOS> um so i guess the rest of it <EOS> i think we should <EOS> maybe you you wanna go back to what the functions are ? <EOS> i think that's more relevant to a discussion ? <EOS>
+
+
+
+@highlight
+
+basic functions and components

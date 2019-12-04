@@ -1,0 +1,7 @@
+i is there any of these criteria that need any explaining ? <EOS> or is there anything that yous thought tha really would stand out compared to the others ? <EOS> um , a few . <EOS> um . okay . <EOS> slight problem we had <EOS> was that we have an amazing four euros over budget for what we were hoping to do . <EOS> um most of it stems from the use of the l_c_d_ <EOS> which i think in the end accounted for about half of our expenditure <EOS> because of course we required a chip as well . <EOS> um the only way to get this down was either to ditch the a l_c_d_ , <EOS> at which point we've removed a large part of how we were gonna interface , <EOS> require more buttons , etcetera . <EOS> or what we did was that we um we as in i as i was quickly going over it was altering the actual structure . <EOS> um changing it to plastic and a solid unit with a single curve design would allow us to come back into the um proposed costs <EOS> and we're just scraping it in , <EOS> we've got point two of a euro left over there . <EOS> so we're just managing it really . <EOS> even then as well , um there was no criteria technically defined for a joystick <EOS> so i've used what i think's appropriate . <EOS> with any luck that won't mean that we've incurred more cost than we can actually afford to . <EOS> it blows a lot of our really good ideas kind of slightly to one side , <EOS> for example the possibility of having a u_s_b_ connection is definitely not viable now . um . <EOS>
+
+
+
+@highlight
+
+agenda / equipment issues costing project budget

@@ -1,0 +1,7 @@
+i think it's that little <EOS> uh there's the rubber on the right , i think . <EOS> it's magic . <EOS> oh i see . <EOS> oh okay . <EOS> i'll get rid of the bear <EOS> okay that's great . <EOS> okay , so we start off with a um battery suppl <EOS> uh no , <EOS> a power supply <EOS> which we'd probably get <EOS> it's probably gonna be the battery . <EOS> um <EOS> we then have a particular button , <EOS> which may be <EOS> that's obviously there's lots and lots of different buttons . <EOS> um but this is how the basic system works . <EOS> um that sends <EOS> after you press that that sends the message to the chip , <EOS> which um then sends <EOS> it sort of interprets which button you've pressed <EOS> and then sends the appropriate message to the sender . <EOS> um . <EOS> so that's . that's the remote in itself , <EOS> that's the components of the remote <EOS> and how they work together . <EOS> so this is the uh user interface . <EOS> um this is the chip itself , <EOS> which then , and that's the that's the infra-red sender . <EOS> and then on the separate thing we have on the on the television we have a a receiver . <EOS> and the sender sends a message to the receiver . <EOS> 'kay . <EOS>
+
+
+
+@highlight
+
+components , materials and energy sources

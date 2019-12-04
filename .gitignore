@@ -1,6 +1,6 @@
 .idea/*
 *.pyc
 .DS_Store
-data/ami_*/*
+data/ami-*/*
 data/*/.DS_Store
 venv*/*

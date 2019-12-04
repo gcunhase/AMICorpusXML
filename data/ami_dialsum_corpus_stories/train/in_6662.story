@@ -1,0 +1,7 @@
+so <EOS> first maybe just a small recap on how how do we watch trends <EOS> so <EOS> it's not so uh simple <EOS> you might think that it's easy <EOS> but uh it's not so simple . <EOS> anyway these days uh the best uh source of information is the web as you know , <EOS> so have to to go often on the web and look at uh what the others are doing , <EOS> and ask real people who are using real remote controls every day uh or any other tool that is similar to a remote control <EOS> which basically is a small device that people have with them , always , like a phone . <EOS> we can we can use the phone as a as a good uh uh example of where to in be inspired . <EOS> of course those tha d who are watching the trends are also have also to be inspired <EOS> because in fact they're not only watching the trends , <EOS> they're inventing it , they're creating the trend . <EOS> i hope i'm going to try to help you on that . <EOS> this is more risky <EOS> because you're not following the trend , <EOS> you try to invent it , <EOS> which means either you succeed and you make a lot of money or you don't and you're out of business . <EOS> so anyway uh <EOS> next slide please . <EOS>
+
+
+
+@highlight
+
+trendwatching

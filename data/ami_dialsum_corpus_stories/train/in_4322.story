@@ -1,0 +1,7 @@
+'kay . <EOS> um , components . just some ideas that i had , <EOS> um , energy source , <EOS> it's kinda hip to be eco friendly <EOS> so i thought maybe we could do something with solar power with an alkaline battery backup . <EOS> um the user interface , <EOS> i was <EOS> since we can't use metal <EOS> i was thinking maybe a high grade recycled plastic . <EOS> the chip , um , silicon based chip i don't really see any way around that , <EOS> we can't really be different in that respect . <EOS> um , the sender well i'm thinking infrared <EOS> 'cause it is the industry standard , <EOS> multi channel , <EOS> that's a word i made up , <EOS> i don't really know what it means . <EOS> uh pal and n_t_s_c_ compatible <EOS> and uh probably a two hundred foot range . <EOS> uh and the receiver of course is any number of electronic devices . <EOS> um but in this case it'll only be t_v_s . <EOS> um personal preferences , <EOS> i really think that we should use plastic as opposed to metal , <EOS> um , the company simply can't afford this kinds of lawsuits <EOS> which adm admittedly is gonna come at the cost of a certain aesthetic value , <EOS> 'cause we were thinking <EOS>
+
+
+
+@highlight
+
+components , materials and energy sources

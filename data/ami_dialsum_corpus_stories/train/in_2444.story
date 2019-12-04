@@ -1,0 +1,7 @@
+yeah . <EOS> yeah . <EOS> but uh well , i think that's a good example . <EOS> okay . <EOS> okay . well , <EOS> the working design . <EOS> the method i used is uh search the web . just the web page provided . <EOS> um basically <EOS> i'm i'm not very technical uh uh educated , <EOS> but uh i could figure it out . <EOS> um basically what happens is you press a button , <EOS> uh then a circuit gets closed by pressing the button , uh like a switch . <EOS> and by closing that certain circuit , the chip knows uh what bu button is pressed . <EOS> so <EOS> like you press a one , that circuit is closed <EOS> and uh <EOS> then the chip produces a pattern . like a morse code <EOS> to uh <EOS> and and sends that to the uh l_e_d_ . <EOS> that's the uh light emitting diode , i think . <EOS> um and the light emitting diode is uh producing infrared light . <EOS> that's un uh invisible to the human eye . <EOS> and uh transmit that uh to the t_v_ . <EOS> however it has also an uh a visible uh diode <EOS> that's uh blinking red if you look in it . <EOS> and that's uh another diode , i believe . <EOS> because infrared is not visible . <EOS> so <EOS> that's er uh do two different things <EOS> but <EOS>
+
+
+
+@highlight
+
+look and usability industrial designer presentation components , materials and energy sources

@@ -1,0 +1,7 @@
+uh i it has different blocks , different blocks . <EOS> uh first is remote control have sh ha should have some electric circuits uh making interface with uh keyboard and uh r reading uh keyboard and reading the keyboard uh commands . <EOS> and then inter then make uh these keyboard commands , <EOS> uh in interpret these int uh keyboard commands . <EOS> and then there should be uh an electronic circuit making uh electronic signals according to these commands <EOS> and uh finally there is a transmitter which is a cord or a a diode making uh making uh waves to transmit through the air <EOS> and uh uh this air this uh wave uh will be received by the by the other device like a television or whatever , to uh r to realise the command . <EOS> okay , uh about what i found about uh different uh these different blocks are uh , usually there are two different methods uh to for designing a remote control . <EOS> they are based on infra-red uh waves or uh uh radio waves . <EOS> there are two different uh uh solutions i mean . <EOS> this is uh this can be uh uh the the differences the th between different kind of waves , infra-red or radio waves . <EOS>
+
+
+
+@highlight
+
+components , materials and energy sources

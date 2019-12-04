@@ -1,0 +1,7 @@
+exactly . <EOS> okay . and my personal p uh preference is uh , as i said , uh just putting this buttons in a special places <EOS> and covered some buttons which are not used uh that much like settings button , like mobile phone . <EOS> usually some mobile phone cover the dialling number part , <EOS> so we can cover these buttons which are not used or uh number buttons for the for the for the can channels , <EOS> and just put uh volume change or s ch can uh channel change buttons uh uh in the remote control . <EOS> and if the user needed to do some more complex task uh he he can open the cover and then change settings or something like this . <EOS> uh . and also uh i think if we put some some some some some buttons inside of the remote control it can be used easier . <EOS> not on remote control . <EOS> i dunno if i can explain well . <EOS> but uh just inside . <EOS> for example , a sliding or rolling uh uh d uh stuff , if we put it inside then we can easily manipulate with uh thumb . <EOS> so it can be another uh preference . <EOS> and uh i dunno but uh i think usage of a speech recogn uh r recogniser can be good . <EOS> i know that it consumes lots of energy , <EOS> but if we do it in some way that it asleeps when there is no sound and when it detects some sound it may consume less energy . <EOS> and i think it's good because it's something new and usually young people like something new . <EOS> so it may not be very useful but because it's new , people may buy it . <EOS>
+
+
+
+@highlight
+
+look and usability

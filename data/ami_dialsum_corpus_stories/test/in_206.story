@@ -1,0 +1,7 @@
+mm-hmm . <EOS> mm-hmm . <EOS> um one final thing we came up with was some information on the speech recognition . <EOS> there's a small unit available through the company um which obviously would be an extra cost , <EOS> but it wouldn't affect the size of the remote too much . <EOS> um and i guess that would require a more advanced circuit board , <EOS> so there is an extra price in that sense . <EOS> there is th sorry an extra cost in that sense . <EOS> um going to my personal preferences , um i thought possibly for power we could use kinetic <EOS> um which is the idea of the watches um that you move <EOS> you move the remote around to power it up . <EOS> and this would avoid batteries running out , having to replace batteries and such like . <EOS> um for the buttons , i thought we'd probably get away with just having the standard um push buttons rather than the scroll wheel . <EOS> um and for the circuit board , again depends on which features we want in the actual in the remote . <EOS> so if we wanted the scroll wheel and wanted the voice recognition , um then we'd have to get a a more costly circuit board . <EOS> and that's it . <EOS>
+
+
+
+@highlight
+
+components , materials and energy sources

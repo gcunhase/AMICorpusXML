@@ -1,0 +1,7 @@
+uh as you know , i am mister ramaro . <EOS> i am an expert in uh industrial design of all electronic devices <EOS> and i previously devised many uh like digital calculators and electronic calculators . <EOS> so now i'll briefly describe the working design of our remote control . <EOS> well , <EOS> as you know the basic function of remote control is sending some message to the the device , like t_v_ or v_c_r_ or d_v_d_ player etcetera . <EOS> so we will have a p portable device which will send message to the the main device like t_v_ . <EOS> so we need to have some energy source to do what to do the functions , what we want on this portable device . <EOS> and usually this <EOS> so to do these functions we need an interface , <EOS> which basically some kind of pressing buttons or keys or like moving jack or something like that . <EOS> and then these messages these key buttons can be transferred into some kind of message <EOS> and then it will process by the chip <EOS> and then it will generate some information to the main device . <EOS> it's generally in the form of infrared or some kind of s sensor information . <EOS> then we will have the main control in the main device to do the particular action what we want . <EOS>
+
+
+
+@highlight
+
+industrial designer presentation

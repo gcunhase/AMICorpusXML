@@ -1,0 +1,7 @@
+huh . <EOS> yeah <EOS> that's not you . <EOS> no . <EOS> that's how the <EOS> wait . <EOS> this is , this is very high-powered stuff here , <EOS> double-clicking , <EOS> there we go . <EOS> so um <EOS> basically the moral of the story from our last minute uh last meeting was that um we that we had meetings from uh we had presentations done by the industrial designer , uh or from nathan , and ron and from sarah about what we can do here <EOS> um and what sort of limitations we're operating with <EOS> um uh excuse me <EOS> what limitations we're operating under , <EOS> what kind of risk we'd be looking at with some of the various approaches we were discussing <EOS> and we essentially came to the conclusion that we should develop a remote with uh voice recognition , <EOS> i_e_ that had a vaguely non-remote like shape <EOS> um because you didn't really need to use it as a remote <EOS> since you could just use your voice . <EOS> that would include some mostly just the simple design features for a television operation <EOS> but with a slide or a fold-out bay for more advanced functions for users . <EOS> um , and uh the uh uh <EOS> the u_i_d_ and the i_d_ were asked to go ahead and start developing a prototype for us to look at . <EOS> so . <EOS> that's sorted , <EOS> back to the main meet here , <EOS> um , go ahead and take it away guys . <EOS>
+
+
+
+@highlight
+
+opening

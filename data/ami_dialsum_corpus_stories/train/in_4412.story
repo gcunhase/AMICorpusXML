@@ -1,0 +1,7 @@
+yeah that's fine . <EOS> yeah . <EOS> we have to start it right away ? <EOS> yeah . <EOS> uh this is you ? <EOS> functional ? yeah functional requirements . <EOS> 'kay . <EOS> alright . <EOS> i'm gonna talk about functional requirements . <EOS> um <EOS> well uh some research has be done uh has been done . <EOS> uh observing of one hundred uh subjects in the usability lab using a remote control . <EOS> uh and they also filled in a questionnaire . <EOS> the findings were um , well you can see them for yourself . <EOS> they disliked the look-and-feel of current remotes controls . <EOS> users think they're ugly . <EOS> um they do not match the the operating behaviour of the users . <EOS> so they they d they don't match what they want to have on it . <EOS> um <EOS> they are often lost somewhere in the room . <EOS> um it takes too much time to learn how to use a new remote control . <EOS> and they're bad for r_s_i_ . <EOS> i don't know uh how a user can reach that but okay . <EOS> um <EOS> there is also uh was also some research on uh the most relevant and and and irrelevant uh f functions . <EOS> uh most irrelevant and less used were audio settings , mono , stereo , uh pitch , bass . <EOS> um screen settings for brightness and colour and stuff like that . <EOS> um but they are used . <EOS> i mean the <EOS>
+
+
+
+@highlight
+
+opening marketing expert presentation

@@ -1,0 +1,7 @@
+here we go . <EOS> right so <EOS> i'm gonna talk about the technical technical functions design of the remote control um . <EOS> we need to start by considering what a remote control actually is . <EOS> it's a device that allows us to produce certain effects on our television , <EOS> so i it's basically a communication device . <EOS> we we tell the remote control what we want to do , <EOS> it sends a message to the television <EOS> saying change the channel , <EOS> change the volume , <EOS> uh yeah , <EOS> adjust these settings , <EOS> adjust the brightness . <EOS> um how do we actually go about designing a new television remote control ? <EOS> first thing to do is to come up with the design specifications . <EOS> we need to know what our final product is gonna be like , <EOS> so we need a a clear idea of exactly what this product does , <EOS> uh how it works , <EOS> and what the end-user is gonna want from this product . <EOS> um . oh , <EOS> a way i'd suggest that we could go about this is by designing uh several different prototypes of user interfaces for this product , <EOS> um and then uh trying to get some feedback uh about <EOS>
+
+
+
+@highlight
+
+agenda / equipment issues interface specialist presentation

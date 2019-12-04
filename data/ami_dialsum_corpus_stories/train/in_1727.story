@@ -1,0 +1,7 @@
+well , function f_ eight . <EOS> no <EOS> oh . <EOS> yeah , w it it just takes a wee while . <EOS> yeah , it just takes a second uh . <EOS> come on . <EOS> right . okay . . okay . <EOS> well , for our marketing report uh we observed remote control users in a usability lab , <EOS> and also gave <EOS> so this is research <EOS> and we also gave participants um questionnaires to fill out . <EOS> um total number of people tested were a hundred just so you know , <EOS> so that hundred people were tested and these were the findings . <EOS> so seventy five per cent of users find the remote control ugly . <EOS> okay , so they don't like the look of the remote control . <EOS> um eighty f eighty per cent of them would spend more money if the rem remote control looked really cool and fancy . <EOS> so i think we all agree with that . <EOS> um current remote controls do not match well with the operating behaviour of the user . <EOS> so , they don't like like the way they operate <EOS> it doesn't like match how people behave . <EOS> um per cent of the users say that they only use ten per cent of the buttons on a remote , <EOS> so probably if you have like one , two , three , four , five , the whole up to z ten , they probably don't use those , <EOS> they only use the up and down channel . <EOS>
+
+
+
+@highlight
+
+agenda / equipment issues marketing expert presentation

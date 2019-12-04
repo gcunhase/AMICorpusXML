@@ -1,0 +1,7 @@
+mm . <EOS> okay . <EOS> s <EOS> so <EOS> mm . <EOS> did y what did you work on ? <EOS> the <EOS> um evaluation criteria . <EOS> i've got a presentation . <EOS> okay . <EOS> do you wanna <EOS> okay . i think that's <EOS> so i need where's the cable ? <EOS> right what happens is we have to um decide whether this this whole this whole project we've been working on actually um meets the standards we were set at the start . <EOS> um . <EOS> right . <EOS> this doesn't <EOS> okay . <EOS> um the method is we well i've analysed the user requirements and integrated them to the trends found in marketing reports and in our company strategy marketing . <EOS> and um the findings were that we need it to look in a certain way , feel in a certain way , <EOS> and this is everything's listed down . <EOS> um , look in a certain way , feel in a certain way , it has to be technologically innovative and it has to be easy to use . <EOS> these are all things we looked at at the start , <EOS> um and criteria that have to be met . <EOS> we have to use a table , <EOS> i'll show you that later , <EOS> together to decide whether it meets the standards . <EOS> and we we have therefore in total um we have five we have eleven points according to which this should be evaluated . <EOS> and um the cri well basically the findings are the same as the evaluation criteria . <EOS> i would like to show you the table we have to use . <EOS> um . <EOS> no . <EOS> this is the table . <EOS> can you see this here ? <EOS>
+
+
+
+@highlight
+
+costing evaluation of prototype ( s )

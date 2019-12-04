@@ -1,0 +1,7 @@
+hmm . <EOS> that's alright . <EOS> right . <EOS> cool . um okay , <EOS> so these are my personal preferences . <EOS> so you have sleek , stylish , sophisticated , you know , <EOS> so something that's , you know , a bit cool . <EOS> um you know , functional , so it's useful , but minimalist . <EOS> um there's a there's an important thing that , you know , people use when , you know , when you're filling up your home , you know , a lot of people fill up their home with bits of crap , basically , you know , <EOS> and you've got all this stuff , and you're just like , what the hell is that , who is ever gonna use it ? you know , <EOS> so things should either be functional or beautiful or preferably both , <EOS> so i think we need to aim for both . <EOS> um okay , then a long battery life , like you were talking about earlier <EOS> and um , you know , i was thinking that solar power would be quite cool <EOS> because , you know , your remote control just sits there , <EOS> and you could just sit it in the sunshine <EOS> and save the environment a bit . <EOS> um and then like a locator , <EOS> so you know , kind of like you have for a mobile phone or <EOS> not a mobile phone <EOS>
+
+
+
+@highlight
+
+marketing expert presentation

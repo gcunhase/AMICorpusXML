@@ -1,0 +1,7 @@
+mmm-hmm mm-hmm . <EOS> yeah yeah . <EOS> now um <EOS> the the scroll wheel is is much more useful if you have an l_c_d_ screen , <EOS> and this brings us to the the point you were mentioning before about the internet uh capability . <EOS> mm-hmm . <EOS> one possibility , if we <EOS> now we need to still talk about the price point <EOS> because obviously a lot of this stuff can't be done for twenty five eu uh euro , <EOS> but one possibility is to download program information into the l_c_d_ screen <EOS> so that instead of actually saying i want to i want to go to channel thirty seven because i know this programme's on , <EOS> you know , often you don't know what ch what channel it's on , or you don't know what's on . <EOS> if you have a list of of programs on your l_c_d_ screen you just scroll to that program rather than to a channel . <EOS> so if you think about it's kind of like a you know in mobile phones now you don't use you don't remember people's phone number , you remember their name and you go find that name and ring it . <EOS> so this would be pretty kind of a handy thing to have , <EOS> but um we we really need t to discuss the price . <EOS>
+
+
+
+@highlight
+
+industrial designer presentation

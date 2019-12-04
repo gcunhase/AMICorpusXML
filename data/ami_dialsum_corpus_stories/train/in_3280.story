@@ -1,0 +1,7 @@
+it's okay . <EOS> uh so the general findings from that was uh in the market trends the most important aspect for remote controls were people want a fancy look and feel , rather than the the current functional look and feel of remote controls . <EOS> they also also want a remote control to be technologically innovative , <EOS> and of course , as we predicted , that it should be easy to use . <EOS> now i should point out that the first of those findings , fancy look and feel , is the most important , <EOS> is twice as important as the second , technologically innovative , <EOS> which is in turn twice as important as being easy to use . <EOS> so possibly that the feature that we put first is actually third <EOS> is still important , but it's third in order of preference for the the subject group we looked at . <EOS> okay , um , <EOS> now the fashion update which relates to very personal preferences among our subject group , <EOS> um we found from our um consultants in paris and milan who des attended all the design and fashion fairs there , that fruit and vegetables are going to be the theme for clothes , shoes and furniture . <EOS> so should we be thinking of using something like that in our remote control design too ? <EOS>
+
+
+
+@highlight
+
+marketing expert presentation trendwatching

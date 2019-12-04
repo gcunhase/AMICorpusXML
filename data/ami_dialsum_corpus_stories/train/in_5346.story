@@ -1,0 +1,7 @@
+the next one . <EOS> right here , <EOS> is that little <EOS> that one , <EOS> yes please . <EOS> thank you . <EOS> i'll take the mouse . <EOS> so uh <EOS> we were looking he specifically at the components uh the following components , <EOS> uh the case , the power supply , uh the means of communications with the television set . <EOS> in instance we had talked about using some sort of speech recognition , <EOS> you have to have microphone <EOS> well no you don't actually i haven't have to have microphone in the device , <EOS> but um <EOS> maybe you do have it a a way <EOS> it has to it has to hear the speaker <EOS> and um , <EOS> so it could be in the television set , could be in the device , <EOS> but somewhere you have to put the microphone , <EOS> um <EOS> and a w a way of making beeps or sounds so you can find it when it's gets lost . <EOS> um so the other w thing that we so . <EOS> our method for going about this is we've looked at uh the histo hi historical record , what's worked , what hasn't <EOS> and then we also um we wanted to evaluate some new materials <EOS> and we contacted manufacturing for their input <EOS> because , course , we m might come up and choose the material that then manufacturing didn't have the technologies or capabilities to offer us , <EOS> so uh <EOS> this is the approach that we took during our um our research . <EOS>
+
+
+
+@highlight
+
+industrial designer presentation

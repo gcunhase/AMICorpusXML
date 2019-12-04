@@ -1,0 +1,7 @@
+mm . <EOS> there you go . <EOS> to guide me and guide us on this project <EOS> 'cause you're gonna be you're g you guys are the bottom <EOS> you know <EOS> you're like no you can't do that you can't have you know x_ and y_ um at the same time . <EOS> and then um we'll work up from what is necessary to more like what would be good , <EOS> you know like um <EOS> i i think you guys probably got the same emails i did <EOS> but the idea of um , yes a coffee pot needs to be able to hold coffee <EOS> but it's also better if it's not like really cheap glass <EOS> so that it if you touch it you hurt your hand , or something like that . <EOS> um and so we'll work up from there <EOS> and um then we'll meet on <EOS> and talk about it <EOS> and then finally we'll incorporate as kind of the last stage you know where you guys build or tell me tell us what's possible <EOS> and then you tell us what we can um hope for and what way to go <EOS> take the the the take the basics <EOS> and make it nicer <EOS> and then ov obviously uh the u_i_d_ and the i_d_ you know you you can keep on the you know sort of at the cutting edge of how to get about maximising what is possible <EOS> um to try t of sync it all up . <EOS> so that's the detailed design . <EOS> so it's a three stage kind of thing . <EOS>
+
+
+
+@highlight
+
+project specs and roles of participants

@@ -1,0 +1,7 @@
+right , <EOS> do you wanna start ? <EOS> right , well <EOS> we made three different prototypes <EOS> and i guess we'll start with with this one . <EOS> um we have <EOS> our colours not are not fixed , <EOS> but this is the general shape . <EOS> um it's <EOS> you hold it sort of either like like this in your left hand <EOS> or you switch it over <EOS> and uh it's easily adaptable to either hand . <EOS> you can push the buttons with your thumb like a mobile phone , <EOS> or you can push them with your index finger of your other hand , <EOS> or even <EOS> i mean there's a whole variety , <EOS> you can hold it like this <EOS> and press it with your same index finger . <EOS> uh we have the on off button at the tip , very visible , very big . <EOS> we have our up and down buttons , <EOS> which are also gonna be our channel selectors , <EOS> and we have our little menu button here . <EOS> if you push if you're just pushing these normally , they're the menu buttons , if uh the volume buttons rather . <EOS> if you press select once , they become channel changing buttons . <EOS> if we press select three times , the menu with the other features and pro possibly also with your t_v_ channel choices shows up , <EOS> and you have your five presets down here . <EOS> um if people wanna grab hold of that , <EOS> see how it feels in your hand . <EOS> that's our number one prototype . <EOS> um do you wanna present the potato , <EOS> or shall i present the martian ? <EOS>
+
+
+
+@highlight
+
+presentation of prototype ( s )

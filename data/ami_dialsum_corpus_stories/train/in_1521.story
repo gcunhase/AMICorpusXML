@@ -1,0 +1,7 @@
+okay . <EOS> um however , this is where we kinda have to be very , i think , creative about it . <EOS> number two was that it be innovative . <EOS> okay so that tells me that we have to find a way to be innovative without a adding just unnecessary um sort of functional bits to it . <EOS> uh and third priority uh for ease of use , <EOS> so again that kind of gives us a general picture of how it has to be , um quite user friendly while still having technology . <EOS> so it i'll just say right away as a bit of a foreshadowing into how we proceed with this in terms of m marketing , <EOS> is that i think um what we should think about is how the um about how the innovation uh contributes to the look and feel , and not so much to the functionality of it . <EOS> for example like when you pick it up and push it like it all lights up or something , you know what i mean , <EOS> like , or it's got something else to it that just seems innovative <EOS> because obviously the thing that <EOS> the message here is ease of use . <EOS> so how do you make innovation make something more more easy to use ? <EOS> well that's i guess where we're gonna go with this . <EOS> okay then there's the other aspect of the back the the market um <EOS>
+
+
+
+@highlight
+
+trend watching

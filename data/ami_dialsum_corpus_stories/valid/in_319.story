@@ -1,0 +1,7 @@
+yes . <EOS> mm . <EOS> right . <EOS> excellent , mm-hmm . <EOS> so that yeah . <EOS> but just to have that function would be would be really good . <EOS> mm . <EOS> right . <EOS> okay so <EOS> can i just run this past you while it occurs to me , <EOS> i don't mean to quickly jump from one subject to another , <EOS> but just discussing the different age groups and targeting the different age groups it occurs to me , to produce our own mobile phones , that that's kind of what led us on to comparing t_v_ remote controls with with their design features , <EOS> um , chain companies like carphone warehouse , you can pop in anytime with a phone that you bought for them w if you've got any problems with it and they'll fix it , <EOS> they'll phone the company , you can use their telephones . <EOS> is it worthwhile with with our retail outlets having a a similar um kind of service <EOS> so that if older users were deterred from buying this , if they know they can just pop into one of our high street outlets , th you know , which button is it i press for this ? th as free as a free aspect of our service , would that not make it more attractive to them ? <EOS>
+
+
+
+@highlight
+
+components , materials and energy sources look and usability

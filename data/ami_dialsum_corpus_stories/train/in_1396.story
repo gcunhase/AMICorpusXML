@@ -1,0 +1,7 @@
+what do you think about uh incorporating bluetooth or a radio uh receiver uh in the place-holder next to the t_v_ , connected to the t_v_ ? <EOS> yeah , <EOS> actually i have t <EOS> so it's in the wrong product . <EOS> yeah . yeah , <EOS> i actually i figured that would be that would be rather nice , <EOS> but then you'd still have the uh the infrared function . <EOS> so in in theory you'd actually just move the problem , <EOS> but uh what i did uh think about was when you mentioned about the uh the cup-holder , is why not uh introduce a speech function like where is the remote . <EOS> if somebody says , where is the remote , then it goes uh beep uh beep beep beep or something , <EOS> i dunno , <EOS> maybe uh maybe something to look into , <EOS> i dunno uh what the cost that something like that would be . <EOS> but it may be uh may be something to explore . <EOS> uh i'll i'll just explain a bit of the components . <EOS> uh first you have the energy source . <EOS> the energy source would be a battery , simple uh battery <EOS> uh that you can find anywhere . <EOS> i figured that would be best , <EOS> 'cause when the battery uh stops functioning uh we could just uh use you could just go out and buy a new one . <EOS>
+
+
+
+@highlight
+
+how to find when misplaced

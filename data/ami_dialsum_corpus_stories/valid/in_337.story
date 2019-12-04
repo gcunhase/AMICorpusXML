@@ -1,0 +1,7 @@
+oh . <EOS> try again . <EOS> okay . <EOS> this is going to be a heavily interactive evaluation , <EOS> and the method here is to evaluate the new remote control in terms of the user requirements and the hot trends introduced by the marketing department . <EOS> so , <EOS> this means we're going to go over the priorities that were raised by uh the consumers <EOS> a as well as incorporate all of our insight into this uh evaluation exercise . <EOS> so <EOS> i'm going to go and use the whiteboard , <EOS> and i've made a list of criteria to look at , <EOS> and so i'm gonna i'm gonna leave this up as the last thing , <EOS> but for the evaluation it's going to be one is true and seven is false , going over these different criteria , <EOS> so <EOS> one true seven false <EOS> and i'm gonna now use the um the board . <EOS> okay . so um <EOS> fancy , technologically innovative , easy to use , trendy , buttons , excess buttons , good buttons , ugly , sellable , and other . <EOS> and in fact i hope that uh you all introduce some additional terms , <EOS> because these are things that um have been brought up , <EOS> some of them seem rather close , <EOS> like they overlap . <EOS>
+
+
+
+@highlight
+
+agenda / equipment issues evaluation of prototype ( s )

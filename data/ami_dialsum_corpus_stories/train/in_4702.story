@@ -1,0 +1,7 @@
+h how well these particular prototypes work , <EOS> uh sorta find out what people think of 'em . <EOS> um using a remote control is is quite a subjective experience . um , <EOS> hmm . <EOS> and different different people sort of prefer different things . <EOS> um we should remember that remote controls are a a fairly standard piece of equipment . <EOS> when a users using a remote control , he or she expects the buttons to be in certain places . <EOS> so in some sense we're gonna we're gonna have to aim for a device which is fairly conventional in design <EOS> uh so that we're not completely shocking people . <EOS> but i think within that there is also room for us to introduce novel ideas <EOS> uh and to make something that's that's perhaps a little bit different , something that stands out . <EOS> um also in in designing the user interface we need to consider practicalities . <EOS> uh the first of these is is technological <EOS> ye <EOS> uh what can we do with the current state of technology as it is . <EOS> the second is is economic , <EOS> uh we need to find a balance between features and price . <EOS> so <EOS> as you mentioned <EOS> things like voice recognition would would add to the price <EOS> uh but it would also im improve the design of the product . <EOS>
+
+
+
+@highlight
+
+interface specialist presentation

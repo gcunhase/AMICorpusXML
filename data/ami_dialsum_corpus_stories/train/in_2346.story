@@ -1,0 +1,7 @@
+mm-hmm . <EOS> and the other thing , you say we need to we need to keep it just television , <EOS> but i think one maybe one option , since this is supposed to be a kind of a fashionable device , is you know there's a certain kind of cool or wow factor that you can kind of you can have with technology , <EOS> and maybe we wanna make it something that's extensible to do other tasks . <EOS> say you have like um a little another little kind of base unit that can also receive signals as well as the television where you can , say uh , change the lighting in the room . <EOS> you know that would be something maybe you could sell as an extra , so that it doesn't have to be part of the initial development , <EOS> but , you know , later on you could you can you know you <EOS> also , selling the potential of the device . <EOS> then you say potentially you can then do other cool stuff like change the lights , i dunno , close the windows , whatever , turn the heating on , <EOS> and um , i think that's something we may need to have as as at least as an optional extra to to kinda make our product cool , since we say we're putting the fashion in electronics . <EOS>
+
+
+
+@highlight
+
+industrial designer presentation

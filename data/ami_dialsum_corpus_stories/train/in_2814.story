@@ -1,0 +1,7 @@
+oh yeah , <EOS> i forgot to mention that . <EOS> the uh rubber material is the type of stress ball material , not just normal rubber . <EOS> forgot to say that . <EOS> okay . okay , <EOS> so <EOS> kinda spongy material . <EOS> um we want something fancy and techni technologically innovative , obviously . <EOS> but what we what we need is something that looks like it's from the future <EOS> that looks cool , <EOS> that's that's different , <EOS> you know , <EOS> that's <EOS> everyone has a white remote control , black remote control , <EOS> you need something cool . <EOS> like , titanium is cool <EOS> but it's expensive . <EOS> and maybe it's a bit of overkill for a remote control . <EOS> um now the fruit and veg options , either we we go in that direction <EOS> or we stay totally away from it . <EOS> um i mean the research did come up with fruit and veg , <EOS> so maybe it is important <EOS> for <EOS> it's the up to the interface guy . <EOS> so <EOS> if we stay away from it , s you know stay away from it , <EOS> but if we're gonna go along with it then it doesn't necessarily have to be like an apple or something like that , or a kiwi fruit . <EOS> it could be something like , i say potato peeler <EOS> but i'm sure you guys have a have a much cooler idea than i do . <EOS> so <EOS> i think cool is the key . <EOS>
+
+
+
+@highlight
+
+trendwatching look and usability

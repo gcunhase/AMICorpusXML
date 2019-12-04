@@ -1,0 +1,7 @@
+yeah . <EOS> oh okay , <EOS> i i was the only one who get it . <EOS> okay <EOS> it was uh uh uh um um a report about uh an experiment with uh a lot of users . <EOS> and uh they had a lot of findings in their report uh with statistical uh uh uh thing uh with statistical uh proof . <EOS> so <EOS> i um i had three pages with findings and sev a lot of uh a lot of findings . <EOS> so we can use this uh to uh create our own remote control . <EOS> uh seventy five percent of the users find uh most remote controls ugly . <EOS> yeah , <EOS> i think uh uh that's a lot , <EOS> so we have to make a beautiful remote control . <EOS> uh eighty percent of users would spend when uh a remote control will l uh look fancy . <EOS> i think this fits uh at the uh what what uh michael said about uh older people . <EOS> older people will uh spend more money uh for uh something uh uh what's good . <EOS> because younger people are more critical uh about uh uh where they spend their money money at . <EOS> uh seventy five percent uh seventy five percent of the users say they zap a lot . <EOS> well <EOS> okay , that's uh normal . <EOS> i think uh we we have to make uh good zap buttons . <EOS> but that's one of our requirements . <EOS>
+
+
+
+@highlight
+
+marketing expert presentation user requirements

@@ -1,0 +1,7 @@
+yes . <EOS> think i'll go first . <EOS> okay . <EOS> so <EOS> just maybe it's easier if you um <EOS> yeah <EOS> i think you will tell your presentation as well . just which function you have <EOS> and what you're gonna talk about . <EOS> 'kay . <EOS> my name is freek van ponnen . <EOS> i'm the market expert . <EOS> but you already knew that . <EOS> um i've done some research . <EOS> we have we uh have been doing research in a usability lab <EOS> where we observed um users operating remote controls . <EOS> uh we let them fill out a questionnaire . <EOS> we had one hundred of these uh test subjects . <EOS> uh in addition we did some market research . uh see what the market consists of . what ages are involved . <EOS> well <EOS> these are three quite astonishing results , i thought . <EOS> um remotes are being considered ugly . <EOS> f <EOS> uh seventy five percent of the um people questioned uh indicated that they thought their remote were was ugly . <EOS> um and an additional eighty percent indicated that they would spend more money on a fancy-looking remote control . <EOS> so <EOS> um in addition remotes were not very functional . <EOS> fifty percent of the people indicated they only loo used about ten percent of the buttons on a remote control . <EOS> and fifty percent of the people indicated that their remote tended to get lost in their room . <EOS> so <EOS>
+
+
+
+@highlight
+
+opening marketing expert presentation

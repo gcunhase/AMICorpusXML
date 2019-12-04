@@ -1,0 +1,7 @@
+ah . <EOS> okay . so <EOS> this is our working design presentation . <EOS> um i had a bit of some issues with this , <EOS> because i wasn't able to find everything i needed , <EOS> but i guess that's we're still in early stages . <EOS> um so , yeah , <EOS> this is this . <EOS> though th the thing about working design is the <EOS> what we're trying to do as a working design is figure out how the aparata apparatus can fulfil its function . <EOS> um one of the examples that kept coming up for me is that a coffee grinder . <EOS> it works <EOS> because it converts electrical energy to grinding the beans <EOS> and then you put the bean through a filter <EOS> and that filters out , <EOS> and then you get coffee at the end that's nice and hot <EOS> because of the combination of electrical energy and then the other things that are brought in to make it work . <EOS> don't know if i'm explaining that very well , <EOS> but how do i get to the next s <EOS> ah . <EOS> so <EOS> h the method as <EOS> um working designers figure out what you need to make it fulfil this practical function , <EOS> what what needs to be done <EOS> and how do we convert all the elements to make that done . <EOS> so <EOS> wha <EOS> the easiest thing to do is to break down all the points <EOS>
+
+
+
+@highlight
+
+agenda / equipment issues industrial designer presentation

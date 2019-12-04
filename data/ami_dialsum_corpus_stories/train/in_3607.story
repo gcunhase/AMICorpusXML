@@ -1,0 +1,7 @@
+too wicked . <EOS> mm . <EOS> a minute please , <EOS> my uh laptop is uh <EOS> oh , <EOS> there it is , <EOS> thank you . <EOS> so <EOS> welcome back . at the functional design meeting um <EOS> the plan is uh that uh each one of you , so not me but only you uh will uh present uh the the things you worked on uh the last uh half hour . <EOS> i will uh take minutes <EOS> and will put uh the minutes that i have uh at the end of the session in the shared folder . <EOS> also the minutes of the previous session are also in the shared folder now , <EOS> so you can read that uh now or afterwards . um <EOS> uh i had an email from the from the management board <EOS> uh , i don't know if you a al also uh received it , <EOS> but there were four points <EOS> uh which uh i think are very important . <EOS> first one is uh they think that uh teletext teletext becomes outdated <EOS> uh and internet will be the the main uh focus . <EOS> uh second one is also important <EOS> uh , because it's one of the discussion points of the previous session . <EOS> uh the remote control shou should onl only be used for the television , <EOS> so it uh not gonna it's not gonna be a multi-purpose remote control , <EOS> so uh that's one thing to keep in mind . <EOS>
+
+
+
+@highlight
+
+opening

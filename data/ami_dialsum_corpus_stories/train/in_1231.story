@@ -1,0 +1,7 @@
+uh , see <EOS> you have to do it real slow . <EOS> 'kay . <EOS> s <EOS> haunted white board . <EOS> so <EOS> we've got the tool uh introduction . <EOS> we <EOS> we're being haunted . <EOS> move along to the project finance . <EOS> um as you can see , we um for our remote control , a selling price is uh twenty five euros . our selling price . <EOS> uh our profit aim is fifty million euros . <EOS> uh that's the least we have to get from our remote controls , <EOS> so we have to work together to reach our aims . <EOS> uh we can do it international , <EOS> so we have to focus on different kind of users , different kind of cultures , and different kind of trends as well . <EOS> um but that's all in the later stadium . <EOS> our production cost um can be maximal twelve and a half euros , <EOS> so that's also a point we have to keep in mind , <EOS> that we won't make remote controls with small televisions inside , and stuff like that . <EOS> it won't work . <EOS> so <EOS> just try to remember these points . selling price twenty five , profit aims fifty million um , but more important is the int international market we're trying to focus on . and production cost uh maximal twelve and a half euros . <EOS>
+
+
+
+@highlight
+
+introduction to tools and equipment agenda / equipment issues project budget

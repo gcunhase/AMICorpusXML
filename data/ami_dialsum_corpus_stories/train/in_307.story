@@ -1,0 +1,7 @@
+f_ f_ five . <EOS> okay . yeah . yep . <EOS> f_ five . yeah . <EOS> uh-huh hmm okay . <EOS> mm-hmm . mm . first of all , they find it very ugly . <EOS> current remote controls as you know they're the same as this one <EOS> uh they're not nice colour , not nice shape , <EOS> i mean they're all the same , <EOS> and they're not l good looking . <EOS> um what is interesting <EOS> is that in fact it seems that they were people are ready to pay for nice and look and fancy looking uh remote control , <EOS> so i think we should probably spend lots of time in and effort in that um . <EOS> and the other thing is that uh the the current remote controls are not so easy to use <EOS> and it it the the current uh facilities that they offer do not match what people really want to use their remote controls . <EOS> for instance uh we see that uh they zap very often <EOS> so i think this is a very uh important uh functionality <EOS> that it should be easy for them to to zap uh in one way or another . <EOS> and most of the buttons uh on uh current remote controls are not used , <EOS> so i think we should design something where some of the buttons which are those that are used should be easier to see and use than others that only a couple of people are using . <EOS>
+
+
+
+@highlight
+
+agenda / equipment issues look and usability

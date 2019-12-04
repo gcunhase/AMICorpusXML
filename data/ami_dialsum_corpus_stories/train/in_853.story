@@ -1,0 +1,7 @@
+um what i think this indicates for our um design . i think we should make a remote for the future . <EOS> and this means we would um have to focus on the age ages sixteen to forty five . <EOS> uh this also makes up most the biggest part of the market , <EOS> so that will also be where our main profit would be gettable . <EOS> um this would mean we would have to make a fancy design . <EOS> um the results also indicated that um about one quarter of the people questioned thought that the remote control caused r_s_ r_s_i_ . <EOS> um this is certainly something to take into account . <EOS> and thirty four percent thought that it was hard to learn a n how to operate a new control , remote control . <EOS> so these are two factors that i think should be included in the design . <EOS> besides of course that the remote must look very nice . <EOS> and the functionality as a lot of people indicated , they only use about ten percent of the buttons , <EOS> i think we should make very few buttons . <EOS> uh this will also be uh beneficial to the design of the remote . <EOS> uh i think the most frequently used buttons should be emphasised . especially the channel selection and audio uh selection buttons . <EOS> 'cause they're used most <EOS> and so they should be robust . <EOS> they shouldn't break down easily . <EOS>
+
+
+
+@highlight
+
+look and usability

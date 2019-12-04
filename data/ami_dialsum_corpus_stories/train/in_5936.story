@@ -1,0 +1,7 @@
+mm-hmm . <EOS> mm that's true , yeah . <EOS> i'm thinking however mac ipod is sort of last year's <EOS> because it's very hard and sort of glassy and glossy , <EOS> so i'm thinking if we imagine that we're taking some of the features of a mac ipod <EOS> and we're then making it s more of like a more of like a comfortable type of <EOS> or more of like a <EOS> maybe more vibrant to friendly thing to have . <EOS> um and then so this is <EOS> w with all that information what i'm what i'm suggesting in this slide here is that we we take these ideas , <EOS> and as we get into more the more um techni like sort of production side of things , <EOS> that we think about shape , materials , and themes or series that go throughout . <EOS> sort of like a <EOS> i dunno like um <EOS> we think of some kind of a thin theme that unifies it all , <EOS> that we agree on , <EOS> uh sorta like a marketing identity . <EOS> um <EOS> does that make sense ? <EOS> yeah . <EOS> so so like i threw out a few ideas there just to kinda get us thinking along those lines like lemon , lime , i dunno , green colours , pe whatever , <EOS> it's just an idea , <EOS> 'cause i'm thinking that some of these ideas will seem quite coherent if we use them in terms of their what people associate this them with in terms of texture , shape , colours , things like that . <EOS>
+
+
+
+@highlight
+
+proposed features

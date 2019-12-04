@@ -1,0 +1,7 @@
+okay . <EOS> rotated , <EOS> so it can so so so that it can be adjusted to either left or right handed user . <EOS> um so <EOS> the t uh the top function button in basic mode would be the on off switch <EOS> and menu mode would be the enter button . <EOS> and then the bottom function buttons switches between between modes . <EOS> um now <EOS> programming it <EOS> actually thi this is one thing i've found with um the replacement remote control . <EOS> programming them can be a right pain . <EOS> so i thought th the simplest way around that would be to have um a cable to connect it to the computer <EOS> some some fair iv fairly fairly simple software on the computer just so that you on your computer <EOS> just so that you could um pr program it at a rather in a rather more comfortable interface . <EOS> and you could download programs for it from uh for uh t_v_s from all sort of main manufacturers . <EOS> um though you i it would be necessary to have uh have a m uh have a ha have a mode for programming it without the computer , <EOS> uh just in case there are there are still people left out there who don't have them yet . <EOS> um . but uh . yeah . <EOS>
+
+
+
+@highlight
+
+look and usability

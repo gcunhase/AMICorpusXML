@@ -1,0 +1,7 @@
+and uh manufacturing has told us that they've um uh recently developed a uh a sensor and a speaker that would uh be integrated into this advanced chip on print , <EOS> so uh we we uh <EOS> now jumping right to our personal preferences <EOS> um i i'd really think we should , you know , use some of uh some really exotic woods , like um , <EOS> you know uh , well you guys come from tropical countries so you can kinda think of some trees and some nice woods . <EOS> i think that people will might really want to design their own cases , <EOS> you see , they could do sort of a this um three-dimensional design on the internet , <EOS> and then they could submit their orders , kinda like you submit a custom car order , you know , <EOS> and you can choose the colour and the size of the wheels and the colours of the leather and things like that , <EOS> and then i uh think we should go with the solar cells as well as the um microphone and speaker on the advanced chip . <EOS> so this is the findings of our research <EOS> and my recommendations um for the new remote control w um would be to have um have it be made out of wood . <EOS> do you have any problems with that ? <EOS>
+
+
+
+@highlight
+
+industrial designer presentation

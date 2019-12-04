@@ -1,0 +1,7 @@
+so <EOS> i i like i like this idea of just having buttons for the features that you use most often . <EOS> so you'd need a few buttons to select your favourite channels . <EOS> i mean most people , when they watch t_v_ , they have two hundred and fifty channels on their t_v_ <EOS> and they watch of 'bout four of them at the most . <EOS> so , <EOS> you have buttons for your favourite channel , <EOS> changing the volume , <EOS> which is something you do all the time when you're watching t_v_ , <EOS> and the button to switch it off , in case you get bored . <EOS> um other features , things like adjusting the brightness , tuning the t_v_ , <EOS> uh i don't know what else you do with a t_v_ . <EOS> um but these are these are all necessary functions . <EOS> uh you can't have a t <EOS> there's no point having a television that you can't tune or that you can't set the contrast , <EOS> so we need to find a way of including these somehow . <EOS> um and one other suggestions i'd make is to in is to include in a menu system , a bit like on the ipod . <EOS> so <EOS> we'd either have a small l_c_d_ display on the device itself , <EOS> or uh have a dis a menu display that comes up on your television <EOS> and can b be controlled through the device . <EOS> and that would allow you to access access the advanced features <EOS> uh whilst keeping a very small and simple set of buttons for the features that you use most often . <EOS>
+
+
+
+@highlight
+
+look and usability

@@ -1,0 +1,7 @@
+mm-hmm . <EOS> yeah . okay . <EOS> mm-hmm . <EOS> okay . <EOS> yeah . <EOS> mm-hmm . <EOS> yeah . <EOS> right . <EOS> yeah . <EOS> 'kay , okay . like that . <EOS> okay . <EOS> mm-hmm . <EOS> mm okay , great . <EOS> okay , right . <EOS> um , okay well <EOS> i gotta kind of got five minutes to wrap up now . <EOS> um next thing we're doing is having lunch . <EOS> whoohoo . <EOS> um and then we're gonna have thirty minutes of working on the next stage . <EOS> um so i'll be putting the minutes of this uh this meeting into the project documents folder . <EOS> um so uh i guess just to just to confirm that we know what we're doing in the next well in the thirty minutes after lunch anyway , <EOS> um for uh our industrial designer , you're gonna be thinking about the components concept . <EOS> um user interface designer gonna be thinking about our user interface , <EOS> and marketing you're gonna be thinking about trend watching . <EOS> um and you'll all get specific instructions as well . <EOS> so um i dunno , <EOS> just just to to ask now if you've got anything else you've thought about while we've been talking . <EOS> um , do you wanna start with david . <EOS> anything else to say at all ? <EOS> no , okay . <EOS> andrew ? <EOS>
+
+
+
+@highlight
+
+subdividing functions

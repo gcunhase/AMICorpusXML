@@ -1,0 +1,7 @@
+okay , yep . <EOS> so <EOS> we have the three birds , <EOS> we have the design , <EOS> that <EOS> we have the the fancy bit , <EOS> right , <EOS> the voice recognition's fancy , <EOS> it's cool , <EOS> it's different , <EOS> it's radical , <EOS> so , <EOS> and then we have an extra bit <EOS> i don't remember <EOS> so <EOS> i'm pretty sure people will buy the remote , <EOS> but is it practical to have a voice recognition system in a remote control , <EOS> i think is a big question . <EOS> um , will people will people be willing to wait for the the period that it'll take to train the remote , <EOS> 'cause i think it will the remote will uh get better over time with the same user user , <EOS> but for the first week or for the first two weeks are you willing to wait , <EOS> are you willing to have a bad remote control . <EOS> and uh what if you have visitors come round , <EOS> they stay the night , <EOS> they wanna use the t_v_ , they can't use the remote <EOS> because they speak differently to you . <EOS> um , how do you account for regional accents and stuff like that . <EOS> uh , will people return the remote control , <EOS> i think a lot of young people will buy the remote control , if they have the money , <EOS> you know , so , <EOS> do our audience have the money , <EOS> but would they return it after a while <EOS> because it's not as fast as pressing a button , <EOS> it's not a practical . <EOS> so . <EOS> these are things i think we should consider . <EOS> i think it's cool , <EOS>
+
+
+
+@highlight
+
+marketing expert presentation

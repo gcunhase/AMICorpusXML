@@ -1,0 +1,7 @@
+um right . uh well <EOS> what i did was uh i i checked uh remote controls <EOS> and the uh remote controls of today are all infrared , <EOS> not like all probably know . <EOS> and the thing about that is um the remote controls uh have to act as a t_v_ or uh a stereo or something , <EOS> and those uh have a transmitter <EOS> that's also focused on infrared , <EOS> so if we want to uh build uh mm a remote control uh with bluetooth for instance then uh the t_v_ should have bluetooth too in order to communicate , <EOS> so that would mean extra cost for the user <EOS> and thus uh that's <EOS> that wouldn't mean a a cheap uh remote control for us . <EOS> so that's probably why most controls are still infrared . <EOS> furthermore they all have uh a a very simple structure , <EOS> so that would probably uh mean lower costs <EOS> and uh <EOS> i <EOS> that could mean for us a good thing <EOS> uh 'cause uh well we we should be able to build a relatively cheap uh a cheap uh remote . <EOS> well uh <EOS> as i mentioned ready , we have some bluetooth <EOS> well <EOS> it may be possible , <EOS> but uh i figured it wouldn't be possible in within our budget , <EOS> but that's not for me to decide , <EOS> but that's maybe something for marketing to look into . <EOS> f <EOS> because uh well my personal opinion is uh is not to do uh bluetooth or or radio waves , <EOS> although <EOS>
+
+
+
+@highlight
+
+existing products

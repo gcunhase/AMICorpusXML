@@ -1,0 +1,7 @@
+like how often do you hit nine ? <EOS> mm-hmm . <EOS> it's just people are used to seeing that , <EOS> so if we didn't have them then they might think it's <EOS> but , <EOS> well possibly <EOS> but the the other thing is that with um the current expansion of uh channels uh in the process of taking place , certainly the button up and down , <EOS> but uh i mean how many channels do we have to um actual television channels do we have to uh prepare for ? <EOS> i would have thought that uh it's forever expanding <EOS> and at the moment we've got although you've onl you've got the five standard , you've got the b_b_c_ have come up with a further six <EOS> and uh there's uh i don't know exactly how many channels there are on uh when you take into account uh sky and various other um various others . <EOS> so i would've thought that we wouldn't , you know , rather <EOS> okay , if the time of flicking from one to other , <EOS> but presumably it'll take a second <EOS> 'cause you have to be able to stop it . <EOS> maybe you could have a fast forward on the on the channels <EOS> that w <EOS> and then you could dispense with more otherwise . <EOS> y you'd want you'd want to get fairly quickly to the channel that you wanted . <EOS>
+
+
+
+@highlight
+
+look and usability
