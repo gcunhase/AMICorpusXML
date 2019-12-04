@@ -106,11 +106,11 @@ Please star or fork if this code was useful for you. If you use it in a paper, p
 ```
 @software{cunha_sergio2019ami_xml2story,
     author       = {Gwenaelle Cunha Sergio},
-    title        = {{gcunhase/AMICorpusXML: Obtaining Transcript and Abstractive and Extractive Summaries from the AMI Meeting Corpus}},
-    month        = oct,
+    title        = {{gcunhase/AMICorpusXML: Obtaining Transcript and Abstractive and Extractive Summaries from the AMI Meeting Corpus and formatting the AMI DialSum Meeting Corpus}},
+    month        = dec,
     year         = 2019,
-    doi          = {10.5281/zenodo.3518699},
-    version      = {v2.0},
+    doi          = {10.5281/zenodo.3561298},
+    version      = {v2.1},
     publisher    = {Zenodo},
     url          = {https://github.com/gcunhase/AMICorpusXML}
     }
